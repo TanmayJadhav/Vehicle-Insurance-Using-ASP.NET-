@@ -1,0 +1,30 @@
+.jumbotron{
+    background-color: lightgreen;
+    height: 350px;
+    text-align: center;
+   
+    
+}
+
+.navbar{
+    background-color:darkslategrey;
+}
+
+
+
+.footer-copyright {
+    background-color: darkslategrey;
+    margin: 20px 0px 0px 0px;
+    padding: 20px 0px;
+    color: white;
+}
+
+.carousel{
+    
+    margin-top:0px;
+    
+}
+
+#homepage{
+    background-color:lightgreen;
+}

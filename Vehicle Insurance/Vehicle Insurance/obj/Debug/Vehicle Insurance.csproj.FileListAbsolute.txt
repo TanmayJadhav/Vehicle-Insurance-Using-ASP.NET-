@@ -1,0 +1,56 @@
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\Vehicle Insurance.dll.config
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\Vehicle Insurance.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\Vehicle Insurance.pdb
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\csc.exe
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\csc.exe.config
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\csc.rsp
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\csi.exe
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\csi.exe.config
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\csi.rsp
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.AppContext.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Collections.Immutable.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Console.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.IO.Compression.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.IO.FileSystem.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.IO.Pipes.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Reflection.Metadata.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Security.AccessControl.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Security.Claims.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Security.Principal.Windows.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.ValueTuple.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Xml.XPath.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\vbc.exe
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\vbc.exe.config
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\vbc.rsp
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\VBCSCompiler.exe
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\roslyn\VBCSCompiler.exe.config
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\obj\Debug\Vehicle Insurance.csprojAssemblyReference.cache
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\obj\Debug\Vehicle Insurance.csproj.CoreCompileInputs.cache
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\obj\Debug\Vehicle Insurance.csproj.CopyComplete
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\obj\Debug\Vehicle Insurance.dll
+D:\.Net\Vehicle Insurance\Vehicle Insurance\Vehicle Insurance\obj\Debug\Vehicle Insurance.pdb
