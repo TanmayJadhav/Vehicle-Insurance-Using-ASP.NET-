@@ -15,7 +15,7 @@ namespace Vehicle_Insurance
 
     public partial class HomePage : System.Web.UI.Page
     {
-        SqlConnection con = new SqlConnection("Data Source=DESKTOP-2L882E0;Initial Catalog=vehicle_insurance;Integrated Security=True ; User ID=sa ; Password=Tanmay11");
+        SqlConnection con = new SqlConnection("Data Source=Add your source;Initial Catalog=vehicle_insurance;Integrated Security=True ; User ID=sa ; Password=your password");
         SqlCommand cmd;
 
         protected void Page_Load(object sender, EventArgs e)
